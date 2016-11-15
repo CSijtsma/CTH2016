@@ -14,5 +14,6 @@ The letter will contain a salutation, a core of 5 sentences with the same build,
 and a randomly selected ending with a choice of two possible endings.
 
 EDIT:
-Uploaded a second version of Kingsrequest.js (Kingsrequest2.js), which has a slight modification to solve a problem the scrupt had
+Uploaded a second version of Kingsrequest.js (Kingsrequest2.js), which has a slight modification to solve a problem the script had
 before, where it would display randomly picked words as "undefined". This happened after correspondence with the teacher.
+Changed: "'max': array.length" to "'max': array.length - 1"
