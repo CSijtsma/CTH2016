@@ -1,0 +1,15 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "CTH2016",
+  "main": "Kingsrequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CSijtsma",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "word-wrap": "^1.1.0"
+  }
+}
