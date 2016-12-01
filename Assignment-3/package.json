@@ -1,0 +1,17 @@
+{
+  "name": "blub",
+  "version": "1.0.0",
+  "description": "assignment3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "CSijtsma",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "express": "^4.14.0",
+    "socket.io": "^1.7.1"
+  }
+}
