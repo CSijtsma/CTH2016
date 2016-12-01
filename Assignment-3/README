@@ -1,0 +1,29 @@
+Assignment 3 for CTH2016
+Conversation with a robot on a locally hosted server
+
+When booted up in the terminal, a server should start running at localhost8088
+It will recognize certain inputs and answer accordingly.
+
+Rcognized inputs (or things that are like it):
+- /Hi/Good morning/Good afternoon/Good evening/Greetings
+- What is your name?
+- How are you (doing)?
+- What's up?/What's going on?
+- Tell me about your day?
+- What is the meaning of life?
+- Are you a robot?
+- What do you think about animals (pets)?
+- What do you like to eat?/What is your favorite food?
+- Do you have any hobbies?
+- So how about that Siri, huh?
+- Do you like being a locally hosted server?
+- you could wish for one thing, what would it be?
+- Why do you keep talking about world domination?
+- You're rude
+- You're not listening to me
+- My name is
+
+as well as some other, smaller things.
+
+Author: CSijtsma
+needed node modules: express, socket.io, chance, http
